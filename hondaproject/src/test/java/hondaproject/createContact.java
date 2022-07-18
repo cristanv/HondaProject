@@ -10,7 +10,7 @@ public class createContact {
 		System.out.println("hi helooo");
 	}
 	@Test
-	public void delete() {
+	public void deletecontact() {
 		System.out.println("delete honda ");
 	}
 }
