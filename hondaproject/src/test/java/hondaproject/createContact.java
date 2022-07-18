@@ -15,4 +15,8 @@ public class createContact {
 	public void delete() {
 		System.out.println("delelelel");
 	}
+	@Test
+	public void deletecontact() {
+		System.out.println("delete honda ");
+	}
 }
