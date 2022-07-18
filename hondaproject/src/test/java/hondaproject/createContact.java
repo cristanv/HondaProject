@@ -9,4 +9,8 @@ public class createContact {
 	public void createContu() {
 		System.out.println("hi helooo");
 	}
+	@Test
+	public void delete() {
+		System.out.println("delete honda ");
+	}
 }
