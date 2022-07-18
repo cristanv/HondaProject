@@ -8,5 +8,11 @@ public class createContact {
 	@Test
 	public void createContu() {
 		System.out.println("hi helooo");
+		System.out.println("how are you");
+	}
+	
+	@Test
+	public void delete() {
+		System.out.println("delelelel");
 	}
 }
